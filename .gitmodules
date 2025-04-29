@@ -2,3 +2,7 @@
   path = IOTSCOPE
   url = https://github.com/abcdefg-png/IOTSCOPE.git
   shallow = true
+[submodule "161"]
+  path = cs161-proj2
+  url = https://github.com/izefoea/cs161-proj2.git
+  shallow = true
