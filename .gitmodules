@@ -1,0 +1,4 @@
+[submodule "IOTSCOPE"]
+  path = IOTSCOPE
+  url = https://github.com/abcdefg-png/IOTSCOPE.git
+  shallow = true
