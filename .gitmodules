@@ -1,8 +1,1 @@
-[submodule "IOTSCOPE"]
-  path = IOTSCOPE
-  url = git@github.com:abcdefg-png/IOTSCOPE.git
-  shallow = true
-[submodule "161"]
-  path = cs161-proj2
-  url = git@github.com:izefoea/cs161-proj2.git
-  shallow = true
+
